@@ -1,0 +1,10 @@
+﻿  Fisier.cpp
+C:\PROIECTE\Proiecte POO\Examen_Criptare_StrategyDP\Examen_Criptare_StrategyDP\Fisier.cpp(17,23): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  iEngine.cpp
+  iException.cpp
+  iKey.cpp
+  KeyShift.cpp
+  KeyXor.cpp
+  Source.cpp
+  Generating Code...
+  Examen_Criptare_StrategyDP.vcxproj -> C:\PROIECTE\Proiecte POO\Examen_Criptare_StrategyDP\Debug\Examen_Criptare_StrategyDP.exe
